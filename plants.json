@@ -5,42 +5,42 @@
       "name": "Succulent Plant",
       "category": "Popular",
       "price": 39.99,
-      "image_url": "assets/images/succulent.png"
+      "image_url": "https://raw.githubusercontent.com/amin-khademi/GreenLeaf/refs/heads/main/klipartz%2026.png"
     },
     {
       "id": "2",
       "name": "Dragon Plant",
       "category": "Popular",
       "price": 29.99,
-      "image_url": "assets/images/dragon_plant.png"
+      "image_url": "https://raw.githubusercontent.com/amin-khademi/GreenLeaf/refs/heads/main/klipartz%2027.png"
     },
     {
       "id": "3",
       "name": "Ravenea Plant",
       "category": "Organic",
       "price": 25.99,
-      "image_url": "assets/images/ravenea.png"
+      "image_url": "https://raw.githubusercontent.com/amin-khademi/GreenLeaf/refs/heads/main/klipartz%2029.png"
     },
     {
       "id": "4",
       "name": "Potted Aloe",
       "category": "Indoors",
       "price": 19.99,
-      "image_url": "assets/images/potted.png"
+      "image_url": "https://raw.githubusercontent.com/amin-khademi/GreenLeaf/refs/heads/main/klipartz%2030.png"
     },
     {
       "id": "5",
       "name": "Mini Succulent",
       "category": "Synthetic",
       "price": 15.99,
-      "image_url": "assets/images/mini_plant.png"
+      "image_url": "https://raw.githubusercontent.com/amin-khademi/GreenLeaf/refs/heads/main/klipartz%2031.png"
     },
     {
       "id": "6",
       "name": "Foliage Plant",
       "category": "Organic",
       "price": 34.99,
-      "image_url": "assets/images/foliage.png"
+      "image_url": "https://raw.githubusercontent.com/amin-khademi/GreenLeaf/refs/heads/main/klipartz%2032.png"
     }
   ]
 }
